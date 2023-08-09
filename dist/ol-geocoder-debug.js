@@ -2,7 +2,7 @@
  * @kirtandesai/ol-geocoder - v5.0.6
  * A geocoder extension compatible with OpenLayers v7.
  * https://github.com/kirtan-desai/ol-geocoder
- * Built: Thu Jun 08 2023 12:34:18 GMT+0300 (Eastern European Summer Time)
+ * Built: Wed Aug 09 2023 11:52:46 GMT+0300 (Eastern European Summer Time)
  */
 
 (function (global, factory) {
@@ -469,7 +469,7 @@
      */
     constructor() {
       this.settings = {
-        url: 'https://nominatim.openstreetmap.org/search/',
+        url: 'https://nominatim.openstreetmap.org/search',
 
         params: {
           q: '',
